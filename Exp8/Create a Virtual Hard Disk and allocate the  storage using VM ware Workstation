@@ -1,0 +1,7 @@
+#Create a Virtual Hard Disk and allocate the storage using VM ware Workstation
+Step 1 :- Install VMWare workstation on the Computer
+Step 2 :- On that click on the "Create a new Virtual Mechine".
+Setp 3 :- Instal a disc image file Through the location
+Step 4 :- Select the Ram and Storage the Virtual Machine.
+Step 5 :- Then install the Ubantu software in the Virtual Machine.
+Step 6 :- After that Power on the Virtual Mechine.
